@@ -307,7 +307,7 @@ systemd-kcm
 #>extra jdk8-openjdk
 
 ## Documentation
-manjaro-documentation-en
+#manjaro-documentation-en
 
 ## Settings packages
 #>extra manjaro-kde-settings

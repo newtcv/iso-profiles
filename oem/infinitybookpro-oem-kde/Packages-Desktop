@@ -84,7 +84,7 @@ ttf-liberation
 ttf-droid
 
 ## Games
->x86_64 steam-manjaro
+#>x86_64 steam-manjaro
 
 ## Package management
 appimagelauncher
@@ -273,7 +273,7 @@ jre8-openjdk
 jdk8-openjdk
 
 ## Documentation
-manjaro-documentation-en
+#manjaro-documentation-en
 
 ## Settings packages
 manjaro-kde-tx-settings

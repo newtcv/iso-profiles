@@ -214,7 +214,7 @@ unace  # ACE archive support
 unrar  # RAR archive support
 
 ## Documentation
-manjaro-documentation-en
+#manjaro-documentation-en
 
 ## Settings packages
 manjaro-xfce-tx-settings

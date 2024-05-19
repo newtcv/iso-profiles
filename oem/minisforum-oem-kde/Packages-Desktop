@@ -74,8 +74,8 @@ terminus-font
 >extra ttf-droid
 
 ## Games
->x86_64 >extra steam-manjaro
->x86_64 >extra steamos-compositor-plus
+#>x86_64 >extra steam-manjaro
+#>x86_64 >extra steamos-compositor-plus
 
 ## Package management
 >extra appimagelauncher
